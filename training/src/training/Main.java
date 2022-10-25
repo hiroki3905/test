@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
+		System.out.println("こんにちは！");
 		Threadrun t1 = new Threadrun();
 		Threadrun t2 = new Threadrun();
 		Threadrun t3 = new Threadrun();
