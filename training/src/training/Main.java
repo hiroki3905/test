@@ -1,7 +1,17 @@
 package training;
 
+/**
+ * メインクラスです
+ * 
+ * @author omaoma
+ *
+ */
 public class Main {
 
+	/**
+	 * メインメソッドです
+	 * @param args 文字列配列です
+	 */
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("こんにちは！");
