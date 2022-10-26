@@ -7,6 +7,7 @@ import java.util.Random;
 
 /**
  * スレッドです
+ * @see Thread
  * @author gorin
  *
  */

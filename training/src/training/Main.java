@@ -2,6 +2,7 @@ package training;
 
 /**
  * メインクラスです
+ * メイン関数が実行されます
  * 
  * @author omaoma
  *
@@ -24,5 +25,4 @@ public class Main {
         t3.start();
         t4.start();
 	}
-
 }
