@@ -4,7 +4,18 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Random;
 
+
+/**
+ * スレッドです
+ * @author gorin
+ *
+ */
 class Threadrun extends Thread{
+	
+	/**
+	 * 
+	 * ランダム秒数後にコンソールを出力する関数
+	 */
 	public void run() {
 		Random rand = new Random();
 		Date date = new Date();
